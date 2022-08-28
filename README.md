@@ -3,9 +3,7 @@
 The code to generate adversarial examples are given in Code/illumina_novaseq_.py and Code/pbsim_error_read_simulator.py files
 
 Code for Spike2Vec is taken from the following repository
-```
 https://github.com/sarwanpasha/Spike2Vec
-```
 
 The code for PSSM2Vec is given in ```PSSM2Vec_vector_generation.ipynb``` notebook
 
