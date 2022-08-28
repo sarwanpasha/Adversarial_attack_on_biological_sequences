@@ -20,10 +20,10 @@ If you want to use the code or dataset, please cite our paper
 
 
 ```
-@article{ali2022efficient,
+@article{ali2022benchmarking,
   title={Benchmarking Machine Learning Robustness in Covid-19 Genome Sequence Classification},
-  author={Sarwan Ali, Bikram Sahoo, Alexander Zelikovskiy, Pin-Yu Chen, Murray Patterson},
-  booktitle={preprint},
+  author={Ali, Sarwan and Sahoo, Bikram and Zelikovskiy, Alexander and Chen, Pin-Yu and Patterson, Murray},
+  journal={arXiv preprint arXiv:2207.08898},
   year={2022}
 }
 ```
