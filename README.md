@@ -13,3 +13,17 @@ The code for Min2Vec is given in ```Min2Vec_and_tSNE_logic_code.ipynb``` noteboo
 
 Our dataset is available on Google Drive
 https://drive.google.com/drive/folders/1adtr8FImIYTqxM20wgInRqIZ8EJY4HVS?usp=sharing
+
+To run the code, you just need to update the dataset path in the notebooks and it will compute the results.
+
+If you want to use the code or dataset, please cite our paper
+
+
+```
+@article{ali2022efficient,
+  title={Benchmarking Machine Learning Robustness in Covid-19 Genome Sequence Classification},
+  author={Sarwan Ali, Bikram Sahoo, Alexander Zelikovskiy, Pin-Yu Chen, Murray Patterson},
+  booktitle={preprint},
+  year={2022}
+}
+```
