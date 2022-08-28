@@ -7,5 +7,9 @@ Code for Spike2Vec is taken from the following repository
 https://github.com/sarwanpasha/Spike2Vec
 ```
 
+The code for PSSM2Vec is given in ```PSSM2Vec_vector_generation.ipynb``` notebook
+
+The code for Min2Vec is given in ```Min2Vec_and_tSNE_logic_code.ipynb``` notebook
+
 Our dataset is available on Google Drive
 https://drive.google.com/drive/folders/1adtr8FImIYTqxM20wgInRqIZ8EJY4HVS?usp=sharing
